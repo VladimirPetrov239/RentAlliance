@@ -1,0 +1,38 @@
+config:
+  target: "wss://docmaker.online/ws/chat/1/"
+  processor: "./tests/artillery.js"
+  ensure:
+        maxErrorRate: 1
+  defaults:
+    headers:
+      Host: "docmaker.online"
+      User-Agent: "Mozilla/5.0 (X11; Linux x86_64; rv:76.0) Gecko/20100101 Firefox/76.0"
+      Accept: "*/*"
+      Accept-Language: "ru-RU,ru;q=0.8,en-US;q=0.5,en;q=0.3"
+      Accept-Encoding: "gzip, deflate, br"
+      Sec-WebSocket-Version: 13
+      Origin: "https://docmaker.online"
+      Sec-WebSocket-Extensions: "permessage-deflate"
+      Sec-WebSocket-Key: "kTWF8MsbwZIVBDIWEcoI4g=="
+      Connection: "keep-alive, Upgrade"
+      Cookie: "csrftoken=5ug47mfi0gyRTFqPsFq9P3G1hpvX7wjogMMMmn1CpVg082YTvXTUPiQ9xnJIh0zL; sessionid=7lb8zdmm6w3y8kpeunecoujd5skaqf3t"
+      Pragma: "no-cache"
+      Cache-Control: "no-cache"
+      Upgrade: "websocket"
+  phases:
+        - duration: 20
+          arrivalRate: 5
+          rampTo: 100
+          name: "Warming up"
+        - duration: 60
+          arrivalRate: 10
+          rampTo: 1000
+          name: "Max load"
+
+scenarios:
+    - engine: "ws"
+      flow:
+        - send: "hello"
+        - think: 1
+        - send: "how are you?"
+        - function:

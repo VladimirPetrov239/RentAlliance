@@ -1,0 +1,50 @@
+Nike;elza.aleksova@rent-alliance.com;renter
+Adidas;alena.bondarenko@rent-alliance.com;renter
+Reebok;boris.valeev@rent-alliance.com;renter
+Zara;evgeniia.gerasimchuk@rent-alliance.com;renter
+Bershka;roman.gorbovtsev.renter@rent-alliance.com;renter
+Рив Гош;elena.kashpur@rent-alliance.com;renter
+Спортмастер;vladimir.lazarev@rent-alliance.com;renter
+М.Видео;kristina.belimova@rent-alliance.com;renter
+Буквоед;oksana.virchenko@rent-alliance.com;renter
+Swatch;sergei.lvov@rent-alliance.com;renter
+Samsonite;aleksei.manukhov@rent-alliance.com;renter
+Pandora;natali.oshtuk@rent-alliance.com;renter
+Ecco;marina.pavlova@rent-alliance.com;renter
+Reima;kseniya.popova@rent-alliance.com;renter
+Lacoste;marina.styopkina@rent-alliance.com;renter
+Chanel;ekaterina.tokmakova@rent-alliance.com;renter
+Gucci;bela.umarova@rent-alliance.com;renter
+Prada;nadezhda.repina@rent-alliance.com;renter
+Никита;nikita.gromtsev@rent-alliance.com;moderator
+Николай;nikolai.nosov@rent-alliance.com;main lawyer
+Олег;oleg.melnikov@rent-alliance.com;moderator
+Александр;yurist.aleksandr.zmeikov@rent-alliance.com;lawyer
+Роман;roman.gorbovtsev@rent-alliance.com;moderator
+Никита;yurist.nikita.gromtsev@rent-alliance.com;lawyer
+Александр;aleksandr.zmeikov@rent-alliance.com;moderator
+Louis Vuitton;renter.nikita@mail.ru;renter
+Re:Store;renter.oleg@mail.ru;renter
+Evian;renter.vova@mail.ru;renter
+Burberry;renter.sasha@mail.ru;renter
+ТРК Июнь;june@mail.ru;landlord
+МЦ Roomer;roomer@mail.ru;landlord
+МЦ Шоколад;chocolate@mail.ru;landlord
+Мебельный Базар;bazar@mail.ru;landlord
+МЦ Калейдоскоп;caledoskop@mail.ru;landlord
+
+
+june@mail.ru;elza.aleksova@rent-alliance.com;alena.bondarenko@rent-alliance.com;boris.valeev@rent-alliance.com;evgeniia.gerasimchuk@rent-alliance.com;roman.gorbovtsev.renter@rent-alliance.com;elena.kashpur@rent-alliance.com;vladimir.lazarev@rent-alliance.com;kristina.belimova@rent-alliance.com;oksana.virchenko@rent-alliance.com;nikita.gromtsev@rent-alliance.com;nikolai.nosov@rent-alliance.com
+
+
+roomer@mail.ru;sergei.lvov@rent-alliance.com;aleksei.manukhov@rent-alliance.com;natali.oshtuk@rent-alliance.com;marina.pavlova@rent-alliance.com;kseniya.popova@rent-alliance.com;marina.styopkina@rent-alliance.com;ekaterina.tokmakova@rent-alliance.com;bela.umarova@rent-alliance.com;nadezhda.repina@rent-alliance.com;oleg.melnikov@rent-alliance.com;yurist.aleksandr.zmeikov@rent-alliance.com
+
+
+chocolate@mail.ru;elza.aleksova@rent-alliance.com;boris.valeev@rent-alliance.com;elena.kashpur@rent-alliance.com;oksana.virchenko@rent-alliance.com;aleksei.manukhov@rent-alliance.com;marina.pavlova@rent-alliance.com;marina.styopkina@rent-alliance.com;bela.umarova@rent-alliance.com;roman.gorbovtsev@rent-alliance.com;sergei.lvov@rent-alliance.com;yurist.nikita.gromtsev@rent-alliance.com
+
+
+bazar@mail.ru;alena.bondarenko@rent-alliance.com;evgeniia.gerasimchuk@rent-alliance.com;vladimir.lazarev@rent-alliance.com;natali.oshtuk@rent-alliance.com;kseniya.popova@rent-alliance.com;ekaterina.tokmakova@rent-alliance.com;nadezhda.repina@rent-alliance.com;kristina.belimova@rent-alliance.com;aleksandr.zmeikov@rent-alliance.com;nikolai.nosov@rent-alliance.com
+
+
+caledoskop@mail.ru;elza.aleksova@rent-alliance.com;alena.bondarenko@rent-alliance.com;boris.valeev@rent-alliance.com;evgeniia.gerasimchuk@rent-alliance.com;roman.gorbovtsev.renter@rent-alliance.com;elena.kashpur@rent-alliance.com;vladimir.lazarev@rent-alliance.com;kristina.belimova@rent-alliance.com;oksana.virchenko@rent-alliance.com;sergei.lvov@rent-alliance.com;aleksei.manukhov@rent-alliance.com;natali.oshtuk@rent-alliance.com;marina.pavlova@rent-alliance.com;kseniya.popova@rent-alliance.com;marina.styopkina@rent-alliance.com;ekaterina.tokmakova@rent-alliance.com;bela.umarova@rent-alliance.com;nadezhda.repina@rent-alliance.com;renter.nikita@mail.ru;renter.oleg@mail.ru;renter.vova@mail.ru;renter.sasha@mail.ru;nikolai.nosov@rent-alliance.com;roman.gorbovtsev@rent-alliance.com
+
